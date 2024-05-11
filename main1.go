@@ -5,6 +5,9 @@ import (
 )
 
 func main() {
-	fmt.Println("ok let's go")
+
+	var power int
+	power = 9000
+	fmt.Println("It's over %d\n", power)
 
 }
